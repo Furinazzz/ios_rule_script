@@ -6,6 +6,11 @@
 # DOMAIN-SUFFIX: 3
 # USER-AGENT: 1
 # TOTAL: 10
+DOMAIN,cma.itunes.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,fpinit.itunes.apple.com
+DOMAIN,radio-activity.itunes.apple.com
 DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,audio-ssl.itunes.apple.com
