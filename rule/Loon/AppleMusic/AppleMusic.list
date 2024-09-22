@@ -12,6 +12,7 @@ DOMAIN,play.itunes.apple.com
 DOMAIN,bag.itunes.apple.com
 DOMAIN,init.itunes.apple.com
 DOMAIN,client-api.itunes.apple.com
+DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,audio-ssl.itunes.apple.com
