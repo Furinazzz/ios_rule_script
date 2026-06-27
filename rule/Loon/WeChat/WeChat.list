@@ -1,15 +1,28 @@
 # NAME: WeChat
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:17:23
-# DOMAIN: 8
+# AUTHOR: blackmatrix7 (Merged with Custom Rules)
+# UPDATED: 2026-06-28 01:16:09
+# DOMAIN: 20
 # DOMAIN-SUFFIX: 22
-# IP-ASN: 1
 # USER-AGENT: 2
-# TOTAL: 33
+# IP-ASN: 6
+# IP-CIDR: 19
+# IP-CIDR6: 1
+# TOTAL: 70
+DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
+DOMAIN,discount.wxpapp.wechatpay.cn
 DOMAIN,dldir1.qq.com
+DOMAIN,exmail.qq.com
+DOMAIN,file.myqcloud.com
+DOMAIN,finderd1p.video.qq.com
+DOMAIN,finderdsp.video.qq.com
+DOMAIN,finderhy.video.qq.com
+DOMAIN,finderks.video.qq.com
+DOMAIN,finderqv.video.qq.com
+DOMAIN,finderv1.video.qq.com
+DOMAIN,gtimg.wechatpay.cn
+DOMAIN,log.wechatpay.cn
 DOMAIN,slife.xy-asia.com
 DOMAIN,soup.v.qq.com
 DOMAIN,vweixinf.tc.qq.com
@@ -45,3 +58,23 @@ IP-ASN,45090
 IP-ASN,9808
 IP-ASN,4134
 IP-ASN,4837
+IP-CIDR,43.144.112.196/32,no-resolve
+IP-CIDR,43.159.235.61/32,no-resolve
+IP-CIDR,43.160.156.23/32,no-resolve
+IP-CIDR,43.160.156.39/32,no-resolve
+IP-CIDR,43.160.156.69/32,no-resolve
+IP-CIDR,43.160.156.164/32,no-resolve
+IP-CIDR,43.160.156.172/32,no-resolve
+IP-CIDR,43.160.156.175/32,no-resolve
+IP-CIDR,43.160.156.207/32,no-resolve
+IP-CIDR,43.160.156.219/32,no-resolve
+IP-CIDR,58.251.59.92/32,no-resolve
+IP-CIDR,58.251.59.96/32,no-resolve
+IP-CIDR,101.32.104.4/32,no-resolve
+IP-CIDR,101.32.104.104/32,no-resolve
+IP-CIDR,101.32.118.25/32,no-resolve
+IP-CIDR,101.32.133.53/32,no-resolve
+IP-CIDR,101.32.133.209/32,no-resolve
+IP-CIDR,129.226.3.47/32,no-resolve
+IP-CIDR,180.153.201.124/32,no-resolve
+IP-CIDR6,2000::/128,no-resolve
